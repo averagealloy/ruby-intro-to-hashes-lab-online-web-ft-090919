@@ -4,7 +4,7 @@ end
 
 def actor
 	actor = name[jon_snow = contacts["Jon Snow"]
-jons_fav_ice_cream = jon_snow[:favorite_ice_cream_f]
+jons_fav_ice_cream = jon_snow[:favorite_]
 jons_fav_ice_cream = jon_snow[:favorite_ice_cream_flavors]
 jons_fav_ice_cream << "mint chip"
 end
