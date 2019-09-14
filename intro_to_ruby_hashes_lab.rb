@@ -3,7 +3,7 @@ hash = {}
 end
 
 def actor
-	jon_snow = contacts["Jon Snow"]
+	j = contacts["Jon Snow"]
 jons_fav_ice_cream = jon_snow[:favorite_ice_cream_flavors]
 jons_fav_ice_cream << "mint chip"
 end
