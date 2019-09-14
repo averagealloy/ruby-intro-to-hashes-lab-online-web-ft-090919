@@ -3,7 +3,7 @@ hash = {}
 end
 
 def actor
-	actor = ["Jon Snow"]
+	actor = name["Jon Snow"]
 jons_fav_ice_cream = jon_snow[:favorite_ice_cream_flavors]
 jons_fav_ice_cream << "mint chip"
 end
