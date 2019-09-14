@@ -3,7 +3,6 @@ hash = {}
 end
 
 def actor
-#
 
 end
 
